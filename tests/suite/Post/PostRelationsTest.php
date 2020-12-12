@@ -1,11 +1,11 @@
 <?php
 
-namespace Mak\Rateable\Tests\suite\Post;
+namespace laramak\Rateable\Tests\suite\Post;
 
 use Illuminate\Foundation\Auth\User;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
-use Mak\Rateable\Tests\models\Post;
-use Mak\Rateable\Tests\TestCase;
+use laramak\Rateable\Tests\models\Post;
+use laramak\Rateable\Tests\TestCase;
 
 /**
  * @internal

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mak\Rateable\Tests\models;
+namespace laramak\Rateable\Tests\models;
 
 use Illuminate\Database\Eloquent\Model;
 

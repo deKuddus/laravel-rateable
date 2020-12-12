@@ -1,9 +1,9 @@
 <?php
 
-namespace Mak\Rateable\Tests\models;
+namespace laramak\Rateable\Tests\models;
 
 use Illuminate\Database\Eloquent\Model;
-use Mak\Rateable\Rateable;
+use laramak\Rateable\Rateable;
 
 class Post extends Model
 {
@@ -13,6 +13,6 @@ class Post extends Model
 
     public function ratings()
     {
-        return $this->morphMany('Mak\Rateable\Tests\models\Rating', 'rateable');
+        return $this->morphMany('laramak\Rateable\Tests\models\Rating', 'rateable');
     }
 }

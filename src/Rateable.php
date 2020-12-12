@@ -1,6 +1,6 @@
 <?php
 
-namespace Mak\Rateable;
+namespace laramak\Rateable;
 
 use Illuminate\Support\Facades\Auth;
 
@@ -41,7 +41,7 @@ trait Rateable
 
     public function ratings()
     {
-        return $this->morphMany('Mak\Rateable\Rating', 'rateable');
+        return $this->morphMany('laramak\Rateable\Rating', 'rateable');
     }
 
     public function averageRating()

@@ -13,7 +13,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mak",
+            "name": "laramak",
             "email": "mak@gmail.com",
             "homepage": "https://mak.com"
         }
@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mak\\Rateable\\": "src"
+            "laramak\\Rateable\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mak\\Rateable\\Tests\\": "tests"
+            "laramak\\Rateable\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -52,7 +52,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mak\\Rateable\\RateableServiceProvider"
+                "laramak\\Rateable\\RateableServiceProvider"
             ]
         }
     },

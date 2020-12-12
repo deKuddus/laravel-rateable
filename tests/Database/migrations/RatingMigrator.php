@@ -1,6 +1,6 @@
 <?php
 
-namespace Mak\Rateable\Tests\Database\migrations;
+namespace laramak\Rateable\Tests\Database\migrations;
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;

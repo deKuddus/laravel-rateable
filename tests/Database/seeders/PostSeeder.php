@@ -1,10 +1,10 @@
 <?php
 
-namespace Mak\Rateable\Tests\Database\seeders;
+namespace laramak\Rateable\Tests\Database\seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
-use Mak\Rateable\Tests\models\Post;
+use laramak\Rateable\Tests\models\Post;
 
 class PostSeeder extends Seeder
 {
