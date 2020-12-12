@@ -1,6 +1,6 @@
 <?php
 
-namespace willvincent\Rateable\Tests\models;
+namespace Mak\Rateable\Tests\models;
 
 class Auth
 {

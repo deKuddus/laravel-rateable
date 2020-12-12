@@ -37,7 +37,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "willvincent\\Rateable\\Tests\\": "tests"
+            "Mak\\Rateable\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -52,7 +52,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "willvincent\\Rateable\\RateableServiceProvider"
+                "Mak\\Rateable\\RateableServiceProvider"
             ]
         }
     },

@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Foundation\Auth\User;
-use willvincent\Rateable\Tests\models\Post;
-use willvincent\Rateable\Tests\TestCase;
+use Mak\Rateable\Tests\models\Post;
+use willviMakncent\Rateable\Tests\TestCase;
 
 /**
  * @internal
