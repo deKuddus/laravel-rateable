@@ -1,6 +1,6 @@
 <?php
 
-namespace mak\Rateable;
+namespace Mak\Rateable;
 
 use Illuminate\Support\ServiceProvider;
 

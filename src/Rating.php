@@ -1,6 +1,6 @@
 <?php
 
-namespace mak\Rateable;
+namespace Mak\Rateable;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Config;
